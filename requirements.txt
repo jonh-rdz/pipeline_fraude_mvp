@@ -1,0 +1,6 @@
+pandas
+numpy
+supabase
+python-dotenv
+apache-airflow
+apache-airflow-providers-common-sql
