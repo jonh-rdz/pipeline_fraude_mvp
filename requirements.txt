@@ -4,3 +4,4 @@ supabase
 python-dotenv
 apache-airflow
 apache-airflow-providers-common-sql
+pytest
